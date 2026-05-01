@@ -1,33 +1,9 @@
-# 🔧 hermes-session-summary
+# ---
 
-A [Hermes Agent](https://hermes-agent.nousresearch.com/) skill for **session-summary** (productivity category).
+--- name: session-summary description: Auto-generate concise summaries at the end of each Hermes session capturing decisions made, tasks completed, todos created, and files modified — then save to O
 
-## Installation
-
-```bash
-cd ~/.hermes/skills/productivity
-git clone https://github.com/Marrowleaf/hermes-session-summary.git session-summary
-```
-
-## Usage
-
-Once installed, this skill is automatically detected by Hermes Agent. Load it with:
-
-```
-skill_view(name="session-summary")
-```
-
-## Structure
-
-- `SKILL.md` — Full documentation with commands, examples, and pitfalls
-- `references/` — Reference materials (if any)
-- `scripts/` — Utility scripts (if any)
-- `templates/` — Template files (if any)
+Part of the [Hermes Agent](https://github.com/Marrowleaf/hermes-agent) skill ecosystem.
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
-
----
-
-Built with ❤️ by [James Durrant](https://github.com/Marrowleaf) and [Hermes Agent](https://hermes-agent.nousresearch.com/)
+MIT License - Copyright (c) 2026 James Durrant
